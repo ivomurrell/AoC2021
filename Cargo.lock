@@ -109,3 +109,7 @@ version = "0.1.0"
 [[package]]
 name = "aoc-2021-day-14-1"
 version = "0.1.0"
+
+[[package]]
+name = "aoc-2021-day-14-2"
+version = "0.1.0"
